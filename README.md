@@ -32,11 +32,7 @@ Integrated the trained model with OpenCV to process live webcam feeds and predic
 Installation and Setup
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/YourUsername/SignLanguageRecognitionUsingML.git  
-cd SignLanguageRecognitionUsingML  
-Install Dependencies
+
 
 bash
 Copy code
